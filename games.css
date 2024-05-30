@@ -1,0 +1,33 @@
+p{
+  color: #000000;
+  font-style: none;
+  font-size: 150%;
+}
+img {
+  width: 300px;
+}
+li a{
+  color: #000000;
+  font-style: none;
+  float: left;
+  list-style-type: none;
+}
+li{
+  float: left;
+  list-style-type: none;
+}
+
+li a:hover{
+  background: #B394B8;
+}
+ul{
+  text-align: left;
+  position: fixed;
+  list-style-type: none;
+}
+li a{
+  padding: 10px;
+  color: #000000;
+  border: solid;
+  list-style-type: none;
+}
