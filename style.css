@@ -1,3 +1,37 @@
-body {
+body{
+  background-color:#D4EAC8;
+}
+h1{
+  font-size:300%;
+  letter-spacing: 10px;
+  color: #1B2A41;
+  font-family: georgia
+}
+p{
+  font-size:200%
+  
+}
+img{
+  width:400px;
+   
+}
+ul {
+  text-align: center;
+  position: fixed;
+  font-size: 150%;
+  list-style-type: none;
+}
+li a:hover {
+  background-color: #829191;
+  
+}
 
+li{
+  float: left;
+}
+li a{
+   padding: 10px;
+  color: #301014;
+  border: solid;
+  
 }
