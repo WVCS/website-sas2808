@@ -1,0 +1,26 @@
+body {
+  background-color: lavender
+}
+p1 {
+  font-size: 120%;
+}
+img {
+  width: 400px;
+}
+ul{
+  text-align: left;
+  position: fixed;
+  font-size: 150%;
+  list-style-type: none;
+}
+li a:hover{
+  background: #B394B8'
+}
+li{
+  float: left;
+}
+li a{
+  padding: 10px;
+  color: #000000;
+  border: solid;
+}
